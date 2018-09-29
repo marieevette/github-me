@@ -1,5 +1,5 @@
 The Git 
 Github dub dub
 Repository mory mory
-Commit mit mit
+Commit git git
 Changes jest jest
